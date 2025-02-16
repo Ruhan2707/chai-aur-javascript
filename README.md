@@ -66,14 +66,14 @@
 
 ![DOM](/src/images/variables.jpg)
 
-- Only people will survive in the Tech indutry whos motive is to create something product
+- Only people will survive in the Tech industry whose motive is to create some product
 - Through javascript, we can create, mobile app, web app etc
 - Set goal to create Ecommerce app or social media app
 - All game is about mindset, here mideset to create a sample product
-- Think to create a ecomerce app
-- I need to attract user and make him into register
-- Given him/her unique id
-- When user comes ➜ he enter the details like name, city, etc, it needs to store ➜ it ll stored in memory space, here it is varaible later DB ha
+- Think to create a ecommerce app
+- I need to attract user and make him/her to register
+- Given him/her an unique id
+- When user comes ➜ he enter the details like name, city, etc, it needs to store ➜ it is all stored in memory space, here it is variable later DB ha
 - Here, all the game is about, storing the data and retriving it
 - So we learn variable and constants
 - variable can be change but constant is constant
@@ -98,11 +98,11 @@
 
 ## Lecture 5: Datatypes
 
-- Prefer to practice on keyboard rather then taking notes on paper, write notes here itself so to remember
+- Prefer to practice on keyboard rather then taking notes on paper, write notes here itself to remember
 - **"use strict"** if we use above 2 words, it means it is newer version of javascript
-- alert("hello") if we run the code, it ll given an error saying node is not defined, as js engine is hidden in browser ➜ it means, to run alert() has different way ti run it.
+- alert("hello") if we run the code, it will given an error saying node is not defined, as js engine is hidden in browser ➜ it means, to run alert() has different way ti run it.
 - In coding readability is very important ans it should be future proof
-  For documentation prfer mdn (mozilla documentation)
+  For documentation prefer mdn (mozilla documentation)
 - Original documenataion would be find in tc39.es
 - ECMA Script is the standard way of writing javscript
 - **For Example:**  if we write loop, then we should write in this way etc
